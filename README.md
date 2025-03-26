@@ -2,7 +2,8 @@
 
 Todo list is done with React
 
-![2025-03-25](https://github.com/user-attachments/assets/37b92fad-f106-4d4e-bb2a-27a6c288e637)
+
+![2025-03-25 (1)](https://github.com/user-attachments/assets/9670b80e-3377-4852-9263-cb945a415460)
 
 
 See it here : https://martinsetbon.github.io/react_todolist
